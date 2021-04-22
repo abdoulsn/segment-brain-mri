@@ -2,3 +2,5 @@
 *.tif
 *.csv
 .ipynb_checkpoints
+/data/*
+/archive/*
